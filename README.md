@@ -6,8 +6,8 @@
 
 <div align="center">
   
-  <!-- Add your profile picture here -->
-  <img src="https://drive.google.com/file/d/1HhQRyGdvVVbDMfidwSV48oB-K2V3QPCq/view?usp=drivesdk" alt="Trish Purkait" width="200" style="border-radius: 50%; border: 4px solid #A855F7;"/>
+  <!-- Profile Picture - Upload your image to your repository or use imgur.com -->
+  <img src="https://avatars.githubusercontent.com/u/trishpurkait" alt="Trish Purkait" width="200" style="border-radius: 50%;"/>
   
   ### 🎓 B.Tech in CSE | 🤖 ML Enthusiast | 🧩 LeetCode Problem Solver
   
@@ -21,29 +21,19 @@
 
 ## 🚀 About Me
 
-```python
-class TrishPurkait:
-    def __init__(self):
-        self.name = "Trish Purkait"
-        self.location = "Kolkata, India 🇮🇳"
-        self.education = "B.Tech in CSE @ FIEM"
-        self.current_gpa = 7.77
-        self.languages_spoken = ["English", "Hindi", "Bengali"]
-        self.status = "Training AI to take over... responsibly 😄"
-        
-    def current_focus(self):
-        return [
-            "🔥 Deep Learning & GenAI",
-            "🎯 Prompt Engineering",
-            "🧠 Building Intelligent Systems",
-            "📊 Solving Real-World Problems with ML"
-        ]
-    
-    def fun_fact(self):
-        return "I teach machines to learn, but they still can't make me coffee ☕😅"
-```
+👋 Hey! I'm **Trish Purkait**, a passionate **B.Tech Computer Science student** from Kolkata, India 🇮🇳
 
-> 💡 **Fun Fact:** I teach machines to learn, but they still can't make me coffee ☕😅
+🎓 Currently pursuing my degree at **Future Institute of Engineering and Management** with a SGPA of **7.77**
+
+💻 I'm deeply interested in **Machine Learning, AI, and Deep Learning** - building intelligent systems that solve real-world problems
+
+🌱 Currently diving deep into **Deep Learning, Generative AI, and Prompt Engineering**
+
+🧠 I love teaching machines to learn, solving complex problems, and creating impactful projects
+
+💡 **Fun Fact:** I teach machines to learn, but they still can't make me coffee ☕😅
+
+📫 **Languages I speak:** English, Hindi, Bengali
 
 ---
 
@@ -63,6 +53,8 @@ class TrishPurkait:
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Librosa](https://img.shields.io/badge/Librosa-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
 ### 📊 Visualization & Analysis
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
@@ -87,9 +79,9 @@ class TrishPurkait:
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🚗 **Smart Parking System** | Real-time parking slot detection using computer vision | Python, OpenCV, TensorFlow, YOLO |
-| 📰 **Fake News Detection** | NLP-based model to identify fake news articles | Python, SpaCy, Scikit-learn, TensorFlow |
-| 🎤 **DeepFake Audio Detection** | MFCC-based audio classification system | Python, Librosa, Scikit-learn |
+| 🚗 **Smart Parking System** | Real-time parking slot detection using computer vision with live camera feed | Python, OpenCV, TensorFlow, YOLO, NumPy |
+| 📰 **Fake News Detection** | NLP-based ML model to identify and classify fake news from trustworthy sources | Python, SpaCy, Scikit-learn, TensorFlow, Pandas |
+| 🎤 **DeepFake Audio Detection** | MFCC-based audio classification system to distinguish real vs fake speech | Python, Librosa, NumPy, Pandas, Scikit-learn |
 
 </div>
 
@@ -103,17 +95,17 @@ class TrishPurkait:
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=trishpurkait&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishpurkait&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-🥇 **Top 8** - FrostHacks 2025 (300+ teams)
-🥇 **Top 30** - HackSphire 2024 (200+ teams)    
-📜 **Data Science, AI, and ML** - Ardent Computech Pvt. Ltd. (Dec 2023 - Mar 2024)  
-📜 **Deep Learning & GenAI** - Ardent Computech Pvt. Ltd. (Nov 2024 - Mar 2025) 
+🥇 **Top 8** - FrostHacks 2025 (Competed with 300+ teams)  
+🥇 **Top 30** - HackSphire 2024 (Competed with 200+ teams)  
+📜 **Data Science, AI, and ML using Python** - Ardent Computech Pvt. Ltd. (Dec 2023 - Mar 2024)  
+📜 **Deep Learning, GenAI, and Prompt Engineering** - Ardent Computech Pvt. Ltd. (Nov 2024 - Mar 2025) *[In Progress]*
 
 ---
 
@@ -135,15 +127,11 @@ class TrishPurkait:
 
 ## 💼 What I'm Currently Learning
 
-```mermaid
-graph LR
-    A[Trish's Learning Journey] --> B[Deep Learning]
-    A --> C[Generative AI]
-    A --> D[Prompt Engineering]
-    B --> E[Neural Networks]
-    C --> F[LLMs]
-    D --> G[AI Applications]
-```
+🔥 Deep Learning & Neural Networks  
+🤖 Generative AI & Large Language Models  
+🎯 Prompt Engineering & AI Applications  
+📊 Advanced Machine Learning Techniques  
+🧠 Building Production-Ready ML Systems
 
 ---
 
