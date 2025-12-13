@@ -7,7 +7,7 @@
 <div align="center">
   
   <!-- Add your profile picture here -->
-  <img src="YOUR_PROFILE_IMAGE_URL_HERE" alt="Trish Purkait" width="200" style="border-radius: 50%; border: 4px solid #A855F7;"/>
+  <img src="https://drive.google.com/file/d/1HhQRyGdvVVbDMfidwSV48oB-K2V3QPCq/view?usp=drivesdk" alt="Trish Purkait" width="200" style="border-radius: 50%; border: 4px solid #A855F7;"/>
   
   ### 🎓 B.Tech in CSE | 🤖 ML Enthusiast | 🧩 LeetCode Problem Solver
   
@@ -41,10 +41,9 @@ class TrishPurkait:
     
     def fun_fact(self):
         return "I teach machines to learn, but they still can't make me coffee ☕😅"
-
-me = TrishPurkait()
-print(me.fun_fact())
 ```
+
+> 💡 **Fun Fact:** I teach machines to learn, but they still can't make me coffee ☕😅
 
 ---
 
@@ -104,17 +103,17 @@ print(me.fun_fact())
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trishpurkait&theme=radical" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=trishpurkait&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-🥇 **Top 30** - HackSphire 2024 (200+ teams)  
-🥇 **Top 8** - FrostHacks 2025 (300+ teams)  
+🥇 **Top 8** - FrostHacks 2025 (300+ teams)
+🥇 **Top 30** - HackSphire 2024 (200+ teams)    
 📜 **Data Science, AI, and ML** - Ardent Computech Pvt. Ltd. (Dec 2023 - Mar 2024)  
-📜 **Deep Learning & GenAI** - Ardent Computech Pvt. Ltd. (Nov 2024 - Mar 2025) *(In Progress)*
+📜 **Deep Learning & GenAI** - Ardent Computech Pvt. Ltd. (Nov 2024 - Mar 2025) 
 
 ---
 
