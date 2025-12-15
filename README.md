@@ -105,7 +105,7 @@
 🥇 **Top 8** - FrostHacks 2025 (Competed with 300+ teams)  
 🥇 **Top 30** - HackSphire 2024 (Competed with 200+ teams)  
 📜 **Data Science, AI, and ML using Python** - Ardent Computech Pvt. Ltd. (Dec 2023 - Mar 2024)  
-📜 **Deep Learning, GenAI, and Prompt Engineering** - Ardent Computech Pvt. Ltd. (Nov 2024 - Mar 2025) *[In Progress]*
+📜 **Deep Learning, GenAI, and Prompt Engineering** - Ardent Computech Pvt. Ltd. (Nov 2024 - Mar 2025)
 
 ---
 
