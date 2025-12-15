@@ -9,7 +9,7 @@
   <!-- Profile Picture - Upload your image to your repository or use imgur.com -->
   <img src="https://avatars.githubusercontent.com/u/trishpurkait" alt="Trish Purkait" width="200" style="border-radius: 50%;"/>
   
-  ### 🎓 B.Tech in CSE | 🤖 ML Enthusiast | 🧩 LeetCode Problem Solver
+  ### 🎓 B.Tech in CSE | 🤖 AI/ML Enthusiast | 🧩 LeetCode Problem Solver
   
   [![GitHub followers](https://img.shields.io/github/followers/trishpurkait?style=social)](https://github.com/trishpurkait)
   [![LeetCode](https://img.shields.io/badge/LeetCode-75%2B%20Problems-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/trish0/)
