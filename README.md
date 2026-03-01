@@ -1,7 +1,7 @@
 # Hi there, I'm Trish Purkait! 👋
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trishpurkait/trishpurkait/main/tri.jpg" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/trishpurkait/trishpurkait/main/me.png" alt="Typing SVG" />
 </div>
 
 <div align="center">
